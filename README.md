@@ -78,5 +78,5 @@ Feel free to **fork** this repository, **raise issues**, or submit **pull reques
 This project is **open-source** and available under the [MIT License](LICENSE).
 
 ---
-**📩 Contact:** If you have any questions, reach out via GitHub Issues or Discussions!
+**📩 Contact:** If you have any questions, reach out via GitHub Issues or Linkedin or X platform
 
